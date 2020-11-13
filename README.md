@@ -1,4 +1,4 @@
 # Understanding SGM
 
-![Alt text here](SGM.PNG)
+![Alt text here](SGM.png)
 
